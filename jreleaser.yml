@@ -42,6 +42,11 @@ release:
         - search: 'feat: '
         - search: 'fix: '
         - search: 'chore: '
+announce:
+  twitter:
+    active: NEVER
+    status: '🚀 {{projectNameCapitalized}} {{projectVersion}} has been released!'
+
 
 packagers:
   brew:

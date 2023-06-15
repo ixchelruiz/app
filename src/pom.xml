@@ -3,7 +3,7 @@
 
     SPDX-License-Identifier: Apache-2.0
 
-    Copyright 2021 Andres Almiray & Ixchel Ruiz
+    Copyright 2021 Andres Almiray.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -27,8 +27,8 @@
  
   <name>app</name>
   <description>Sample application</description>
-  <url>https://github.com/ixchelruiz/app</url>
-  <inceptionYear>2023</inceptionYear>
+  <url>https://github.com/aalmiray/app</url>
+  <inceptionYear>2021</inceptionYear>
   
   <properties>
     <app.main.class>com.acme.Main</app.main.class>
@@ -51,10 +51,6 @@
       <developer>
           <id>aalmiray</id>
           <name>Andres Almiray</name>
-      </developer>
-      <developer>
-          <id>ixchelruiz</id>
-          <name>Ixchel Ruiz</name>
       </developer>
   </developers>
   
